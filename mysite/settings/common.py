@@ -88,7 +88,10 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE':   'django.db.backends.mysql',
-        'NAME':     'homework$threewheel',                  # DB 이름
+        'NAME': 'homework$threewheel',                  # DB 이름
+        'TEST': {
+                    'NAME': 'homework$test_threewheel',
+                },
         'USER':     'homework',                    # DB 사용자 이름
         'PASSWORD': 'mysql1111',              # DB 비밀번호
         'HOST':     'homework.mysql.pythonanywhere-services.com',               # DB 서버 주소
