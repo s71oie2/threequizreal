@@ -88,7 +88,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE':   'django.db.backends.mysql',
-        'NAME': 'homework$threewheel',                  # DB 이름
+        # 'NAME': 'homework$threewheel',                  # DB 이름
         'TEST': {
                     'NAME': 'homework$test_threewheel',
                 },
