@@ -88,10 +88,10 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE':   'django.db.backends.mysql',
-        'NAME':     'threewheel',                  # DB 이름
-        'USER':     'root',                    # DB 사용자 이름
+        'NAME':     'homework$threewheel',                  # DB 이름
+        'USER':     'homework',                    # DB 사용자 이름
         'PASSWORD': 'mysql1111',              # DB 비밀번호
-        'HOST':     '127.0.0.1',               # DB 서버 주소
+        'HOST':     'homework.mysql.pythonanywhere-services.com',               # DB 서버 주소
         'PORT':     '',                        # DB 포트 (생략하면 MySQL 디폴트 포트 3306 자동 지정)
         'OPTIONS':  {'charset': 'utf8mb4'},
     }
