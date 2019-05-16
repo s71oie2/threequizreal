@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5e3f174b-acc3-47c8-92f4-2ed9f7a953ac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings/common.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mysite/settings/common.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="76" column="16" selection-start-line="76" selection-end-line="76" selection-end-column="16" />
+            <state relative-caret-position="100">
+              <caret line="85" column="37" lean-forward="true" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
               <folding>
                 <element signature="e#0#305#1" />
                 <element signature="e#463#525#0" />
@@ -282,12 +281,12 @@
       <workItem from="1557889283754" duration="3866000" />
       <workItem from="1557966989945" duration="6389000" />
       <workItem from="1557983050142" duration="976000" />
-      <workItem from="1557986124013" duration="160000" />
+      <workItem from="1557986124013" duration="782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22042000" />
+    <option name="totallyTimeSpent" value="22664000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -307,7 +306,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.41208053" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.111409396" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32885906" />
       <window_info anchor="bottom" id="Database Console" order="13" weight="0.3297587" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -438,8 +437,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/settings/common.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="76" column="16" selection-start-line="76" selection-end-line="76" selection-end-column="16" />
+        <state relative-caret-position="100">
+          <caret line="85" column="37" lean-forward="true" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
           <folding>
             <element signature="e#0#305#1" />
             <element signature="e#463#525#0" />
